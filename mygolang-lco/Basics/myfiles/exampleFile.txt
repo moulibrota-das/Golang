@@ -1,0 +1,1 @@
+This a example content for the file created using golang
